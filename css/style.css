@@ -456,6 +456,10 @@ li {
   width: 70px;
 }
 
+#contact .contact-list li img:hover {
+  opacity: 0.6;
+}
+
 #contact .contact-list-desc {
   font-weight: bold;
 }
