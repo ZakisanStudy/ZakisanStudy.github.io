@@ -252,11 +252,11 @@ li {
 }
 
 .card-caption-info {
-  font-size: 10px;
+  font-size: 11px;
 }
 
 .card-caption-url {
-  font-size: 10px;
+  font-size: 13px;
 }
 
 .card img.fadein {
@@ -305,7 +305,8 @@ li {
 
 #feature .section-image {
   flex-basis: 58%;
-  margin-top: 20px
+  margin-top: 20px;
+  margin-bottom: 20px
 }
 
 #feature .section-image img {
@@ -592,7 +593,7 @@ li {
   }
 
   .card-caption-title {
-    font-size: 10px;
+    font-size: 13px;
   }
 
   #works .card:nth-child(2n+1):nth-last-child(-n+2),
