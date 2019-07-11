@@ -241,6 +241,7 @@ li {
   width: 100%;
 }
 
+
 .card-caption {
   text-align: center;
 }
@@ -290,6 +291,10 @@ li {
 #works .card:nth-child(3n+1):nth-last-child(-n+3),
 #works .card:nth-child(3n+1):nth-last-child(-n+3)~div {
   margin-bottom: 0;
+}
+
+#works .card img:hover {
+  opacity: 0.6;
 }
 
 /*--------------------------------
