@@ -356,6 +356,11 @@ li {
   flex-basis: 62%;
 }
 
+.myname{
+  font-weight: bold;
+  display: inline-block; 
+  _display: inline;
+}
 /*--------------------------------
  SKILL
 ---------------------------------*/
@@ -697,3 +702,5 @@ li {
     padding: 20px 0;
   }
 }
+
+
